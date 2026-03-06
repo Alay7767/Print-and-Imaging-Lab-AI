@@ -1,0 +1,1 @@
+This folder contains all the documents/manuals of the machines that are at the print and imaging lab (Note: This is for ASU Print and Imaging Lab so it may not contain all the machines. It only includes machine that are at the ASU PIL)
