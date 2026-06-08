@@ -1,2 +1,2 @@
 # Print-and-Imaging-Lab-AI
-Currently under progress...
+Project is finished yet to deploy!
